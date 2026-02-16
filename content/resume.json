@@ -1,0 +1,30 @@
+{
+  "name": "Gangadhar Vasa",
+  "title": "Senior Android Developer",
+  "location": "Hyderabad, India",
+  "email": "gangadhar.vasa99.dev@gmail.com",
+  "github": "https://github.com/sevenio",
+  "summary": "Senior Android Developer with 4+ years of experience building scalable, high-performance mobile applications.",
+  "sections": [
+    {
+      "type": "paragraph",
+      "content": "Senior Android Developer with 4+ years of experience building scalable, high-performance mobile applications. Specialized in Kotlin, Jetpack Compose, and Kotlin Multiplatform (KMP). Strong focus on clean architecture, modularization, and performance optimization."
+    },
+    {
+      "type": "list",
+      "title": "Technical Skills",
+      "items": [
+        "Languages: Kotlin, Java",
+        "Mobile: Android SDK, Jetpack Compose, XML",
+        "Architecture: MVVM, Clean Architecture, Modularization",
+        "KMP: Shared business logic, Compose Multiplatform",
+        "Networking: Retrofit, OkHttp",
+        "DI: Hilt",
+        "Storage: DataStore, SharedPreferences",
+        "Build Tools: Gradle, AGP",
+        "Version Control: Git",
+        "Other: BLE Integration, REST APIs, Performance Optimization"
+      ]
+    }
+  ]
+}

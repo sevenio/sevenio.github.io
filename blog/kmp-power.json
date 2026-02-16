@@ -1,0 +1,12 @@
+{
+    "title": "Why Kotlin Multiplatform Is Powerful",
+    "date": "2026-02-12",
+    "slug": "kmp-power",
+    "tags": [
+        "kotlin",
+        "kmp",
+        "architecture"
+    ],
+    "summary": "Why KMP changes architecture.",
+    "content": "## Introduction\n\nKotlin Multiplatform is changing how we architect apps."
+}
